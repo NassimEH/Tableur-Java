@@ -38,7 +38,11 @@ After launching the application, you will be greeted with a user interface where
 
 We welcome contributions from the community. If you wish to contribute to the project, please fork the repository and submit a pull request.
 
-## Acknowledgments
+## Authors
+
+- [Nassim EL HADDAD](https://www.linkedin.com/in/nassim-el-haddad-4aa298271/)
+- [Achok Samedi](https://www.linkedin.com/in/achok-samedi-0a719427a/)
+- [Marjorie Daveluy](https://www.linkedin.com/in/marjorie-daveluy/)
 
 - Special thanks to Achok Samedi and Marjorie Daveluy for their invaluable contributions to the project.
 - Gratitude to our instructor and peers for their support and feedback throughout the development process.
