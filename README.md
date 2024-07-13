@@ -1,8 +1,26 @@
-# Java Spreadsheet Project
+# Présentation du Projet | Project Presentation
+
+## FR : 
+
+Ce projet est le fruit d'une collaboration développée en Java, visant à créer une application de feuille de calcul polyvalente et conviviale. Il a été conçu et réalisé par une équipe de développeurs dévoués : moi-même, Achok Samedi et Marjorie Daveluy.
+
+### Aperçu du Projet
+
+Le Java Spreadsheet Project offre un outil simple mais puissant permettant aux utilisateurs de gérer efficacement leurs données. Notre application prend en charge les fonctionnalités de base des feuilles de calcul telles que la création, la modification et l'enregistrement de feuilles, ainsi que des fonctionnalités plus avancées comme la mise en œuvre de formules et le formatage des cellules.
+
+### Fonctionnalités Clés
+
+- **Créer, Modifier et Enregistrer des Feuilles de Calcul** : Les utilisateurs peuvent facilement gérer leurs données sur plusieurs feuilles au sein de l'application.
+- **Prise en Charge des Formules** : Prend en charge les formules arithmétiques et logiques pour effectuer des calculs et des analyses de données.
+- **Formatage des Cellules** : Personnalisez l'apparence des cellules avec diverses options de formatage, y compris les styles, tailles et couleurs de police.
+- **Visualisation des Données** : Inclut des outils de création de graphiques de base pour représenter visuellement les données, améliorant ainsi la compréhension et la présentation.
+- **Compatibilité Multi-Plateforme** : Développé en Java, assurant une compatibilité avec divers systèmes d'exploitation.
+
+## ENG :
 
 This project is a collaborative effort developed in Java, aimed at creating a versatile and user-friendly spreadsheet application. It was conceived and brought to life by a team of dedicated developers: myself, Achok Samedi, and Marjorie Daveluy.
 
-## Project Overview
+### Project Overview
 
 The Java Spreadsheet Project provides a simple yet powerful tool for users to manage data efficiently. Our application supports basic spreadsheet functionalities such as creating, editing, and saving sheets, alongside more advanced features like formula implementation and cell formatting.
 
@@ -14,37 +32,59 @@ The Java Spreadsheet Project provides a simple yet powerful tool for users to ma
 - **Data Visualization**: Includes basic charting tools to represent data visually, enhancing understanding and presentation.
 - **Cross-Platform Compatibility**: Developed in Java, ensuring compatibility across various operating systems.
 
-## Getting Started
+---
 
-To get started with the Java Spreadsheet Project, please follow these instructions:
+## Ce que j'ai appris | What I Learned
 
-### Prerequisites
+## FR :
 
-- Java Development Kit (JDK) version 8 or higher installed on your machine.
-- Any Integrated Development Environment (IDE) that supports Java (e.g., Eclipse, IntelliJ IDEA).
+Ce projet m'a permis de développer des compétences essentielles en développement Java et en gestion de projets collaboratifs. Grâce à cette expérience, j'ai pu approfondir mes connaissances en manipulation de données et en visualisation à travers des outils graphiques. J'ai également acquis une meilleure compréhension de la création d'applications multi-plateformes robustes et efficaces. 
+
+## ENG :
+
+This project allowed me to develop essential skills in Java development and collaborative project management. Through this experience, I deepened my knowledge in data manipulation and visualization using charting tools. I also gained a better understanding of creating robust and efficient cross-platform applications.
+
+---
+
+## Démarrage | Getting Started
+
+Pour commencer avec le Java Spreadsheet Project, veuillez suivre ces instructions :
+
+### Prérequis
+
+- Java Development Kit (JDK) version 8 ou supérieure installé sur votre machine.
+- Tout Environnement de Développement Intégré (IDE) prenant en charge Java (par exemple, Eclipse, IntelliJ IDEA).
 
 ### Installation
 
-1. Clone the repository to your local machine:
-2. Open the project in your IDE.
-3. Build the project to resolve dependencies.
-4. Run the application from the `Main` class.
+1. Clonez le dépôt sur votre machine locale :
+2. Ouvrez le projet dans votre IDE.
+3. Construisez le projet pour résoudre les dépendances.
+4. Exécutez l'application depuis la classe `Main`.
 
-## Usage
+## Utilisation | Usage
 
-After launching the application, you will be greeted with a user interface where you can start creating and managing your spreadsheets. Use the toolbar or menu options to add new sheets, input data, apply formulas, and format your cells.
+Après avoir lancé l'application, vous serez accueilli par une interface utilisateur où vous pourrez commencer à créer et gérer vos feuilles de calcul. Utilisez la barre d'outils ou les options de menu pour ajouter de nouvelles feuilles, saisir des données, appliquer des formules et formater vos cellules.
 
-## Contributing
+## Contribuer | Contributing
 
-We welcome contributions from the community. If you wish to contribute to the project, please fork the repository and submit a pull request.
+Nous accueillons les contributions de la communauté. Si vous souhaitez contribuer au projet, veuillez forker le dépôt et soumettre une pull request.
 
-## Authors
+## Auteurs | Authors
 
 - [Nassim EL HADDAD](https://www.linkedin.com/in/nassim-el-haddad-4aa298271/)
 - [Achok Samedi](https://www.linkedin.com/in/achok-samedi-0a719427a/)
 - [Marjorie Daveluy](https://www.linkedin.com/in/marjorie-daveluy/)
 
-- Special thanks to Achok Samedi and Marjorie Daveluy for their invaluable contributions to the project.
-- Gratitude to our instructor and peers for their support and feedback throughout the development process.
+- Remerciements spéciaux à Achok Samedi et Marjorie Daveluy pour leurs contributions inestimables au projet.
+- Gratitude à notre instructeur et à nos pairs pour leur soutien et leurs retours tout au long du processus de développement.
 
-Thank you for checking out our Java Spreadsheet Project!
+Merci d'avoir consulté notre Java Spreadsheet Project!
+
+---
+
+### Liens Utiles | Useful Links
+
+- [Java](https://www.java.com/)
+- [Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/)
+- [Université Paris-Est Créteil](https://www.u-pec.fr/)
